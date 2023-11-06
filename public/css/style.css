@@ -1,0 +1,56 @@
+.top-text {
+    text-align: center;
+    line-height: 1.4;
+}
+
+.main-container-nas {
+    margin-top: -50px;
+}
+
+.teller-button {
+    width: 230px;
+    height: 150px;
+    font-size: larger;
+    font-weight: 700;
+    background-color: #17a2b8;
+    color: antiquewhite;
+    border-radius: 20px;
+    border-color: grey;
+}
+
+.cs-button {
+    width: 230px;
+    height: 150px;
+    font-size: larger;
+    font-weight: 700;
+    background-color: #28a745;
+    color: antiquewhite;
+    border-radius: 20px;
+    border-color: grey;
+}
+
+.no-antrian {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background-color:gold;
+}
+
+.no-antrian-font {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.role {
+    text-transform: uppercase;
+}
+
+.next-antrian-button {
+    width: 200px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: #75d28b;
+    border-radius: 5px;
+    border-color: white;
+}
